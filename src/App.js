@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
      Food Waste
+     <button type="button" className="btn btn-primary">Primary</button>
     </div>
   );
 }
